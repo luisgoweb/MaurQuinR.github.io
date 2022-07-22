@@ -14,6 +14,12 @@
     margin: 0;
     padding: 0;
   }
+
+  .projects-section {
+    text-align: center;
+    padding: 10rem 2rem;
+    background: hsl(11deg 80% 45%)!important;
+}
   
 
   *,
